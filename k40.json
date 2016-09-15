@@ -1,0 +1,8 @@
+[
+	{ "key": "G1", "type": "key", "new_key": "Esc" },
+	{ "key": "G2", "type": "key", "new_key": "F13"},
+	{ "key": "G3", "type": "key", "new_key": "F14"},
+	{ "key": "G4", "type": "key", "new_key": "F15" },
+	{ "key": "G5", "type": "key", "new_key": "F16"},
+	{ "key": "G6", "type": "key", "new_key": "F17" }
+]
